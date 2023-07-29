@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('Hiển thị hình ảnh ra nhen!!!')
+st.title('Ta chính là xác thủ vô tình!!!')
